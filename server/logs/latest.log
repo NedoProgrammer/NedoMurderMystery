@@ -1,0 +1,1628 @@
+[11:51:17] [Server thread/INFO]: Starting minecraft server version 1.12.2
+[11:51:17] [Server thread/INFO]: Loading properties
+[11:51:17] [Server thread/INFO]: Default game type: SURVIVAL
+[11:51:17] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-dcd1643-e60fc34 (MC: 1.12.2) (Implementing API version 1.12.2-R0.1-SNAPSHOT)
+[11:51:17] [Server thread/INFO]: Debug logging is disabled
+[11:51:17] [Server thread/INFO]: Server Ping Player Sample Count: 12
+
+[11:51:17] [Server thread/INFO]: Using 4 threads for Netty based IO
+[11:51:17] [Server thread/INFO]: Generating keypair
+[11:51:17] [Server thread/INFO]: Starting Minecraft server on 192.168.100.2:25565
+[11:51:17] [Server thread/INFO]: Using default channel type
+[11:51:18] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[11:51:19] [Server thread/INFO]: [PluginManager] Loading PluginManager v2.0.1
+[11:51:19] [Server thread/INFO]: [VoidGenerator] Loading VoidGenerator v1.0
+[11:51:19] [Server thread/INFO]: [Essentials] Loading Essentials v2.18.2.0
+[11:51:19] [Server thread/INFO]: [EssentialsProtect] Loading EssentialsProtect v2.18.2.0
+[11:51:19] [Server thread/INFO]: [NedoMurderMystery] Loading NedoMurderMystery v1
+[11:51:19] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn v2.18.2.0
+[11:51:19] [Server thread/INFO]: [EssentialsChat] Loading EssentialsChat v2.18.2.0
+[11:51:19] [Server thread/INFO]: [EssentialsGeoIP] Loading EssentialsGeoIP v2.18.2.0
+[11:51:19] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v4.2.2-b812
+[11:51:19] [Server thread/INFO]: [EssentialsAntiBuild] Loading EssentialsAntiBuild v2.18.2.0
+[11:51:19] [Server thread/INFO]: [EssentialsXMPP] Loading EssentialsXMPP v2.18.2.0
+[11:51:19] [Server thread/INFO]: [VoidGenerator] Enabling VoidGenerator v1.0
+[11:51:19] [Server thread/INFO]: VoidGenerator has been enabled!
+[11:51:19] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[11:51:19] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[11:51:19] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[11:51:19] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[11:51:19] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[11:51:19] [Server thread/INFO]: Preparing level "world"
+[11:51:19] [Server thread/INFO]: -------- World Settings For [world] --------
+[11:51:19] [Server thread/INFO]: Mob Spawn Range: 4
+[11:51:19] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[11:51:19] [Server thread/INFO]: Cane Growth Modifier: 100%
+[11:51:19] [Server thread/INFO]: Melon Growth Modifier: 100%
+[11:51:19] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[11:51:19] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[11:51:19] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[11:51:19] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[11:51:19] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[11:51:19] [Server thread/INFO]: Vine Growth Modifier: 100%
+[11:51:19] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[11:51:19] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[11:51:19] [Server thread/INFO]: Structure Info Saving: true
+[11:51:19] [Server thread/INFO]: Random Lighting Updates: false
+[11:51:19] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[11:51:19] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[11:51:19] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[11:51:19] [Server thread/INFO]: Max TNT Explosions: 100
+[11:51:19] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[11:51:19] [Server thread/INFO]: Item Despawn Rate: 6000
+[11:51:19] [Server thread/INFO]: Item Merge Radius: 2.5
+[11:51:19] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[11:51:19] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[11:51:19] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[11:51:19] [Server thread/INFO]: Experience Merge Radius: 3.0
+[11:51:19] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[11:51:19] [Server thread/INFO]: View Distance: 10
+[11:51:19] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[11:51:19] [Server thread/INFO]: Mob Spawn Range: 4
+[11:51:19] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[11:51:19] [Server thread/INFO]: Cane Growth Modifier: 100%
+[11:51:19] [Server thread/INFO]: Melon Growth Modifier: 100%
+[11:51:19] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[11:51:19] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[11:51:19] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[11:51:19] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[11:51:19] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[11:51:19] [Server thread/INFO]: Vine Growth Modifier: 100%
+[11:51:19] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[11:51:19] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[11:51:19] [Server thread/INFO]: Structure Info Saving: true
+[11:51:19] [Server thread/INFO]: Random Lighting Updates: false
+[11:51:19] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[11:51:19] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[11:51:19] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[11:51:19] [Server thread/INFO]: Max TNT Explosions: 100
+[11:51:19] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[11:51:19] [Server thread/INFO]: Item Despawn Rate: 6000
+[11:51:19] [Server thread/INFO]: Item Merge Radius: 2.5
+[11:51:19] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[11:51:19] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[11:51:19] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[11:51:19] [Server thread/INFO]: Experience Merge Radius: 3.0
+[11:51:19] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[11:51:19] [Server thread/INFO]: View Distance: 10
+[11:51:20] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[11:51:20] [Server thread/INFO]: Mob Spawn Range: 4
+[11:51:20] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[11:51:20] [Server thread/INFO]: Cane Growth Modifier: 100%
+[11:51:20] [Server thread/INFO]: Melon Growth Modifier: 100%
+[11:51:20] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[11:51:20] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[11:51:20] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[11:51:20] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[11:51:20] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[11:51:20] [Server thread/INFO]: Vine Growth Modifier: 100%
+[11:51:20] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[11:51:20] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[11:51:20] [Server thread/INFO]: Structure Info Saving: true
+[11:51:20] [Server thread/INFO]: Random Lighting Updates: false
+[11:51:20] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[11:51:20] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[11:51:20] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[11:51:20] [Server thread/INFO]: Max TNT Explosions: 100
+[11:51:20] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[11:51:20] [Server thread/INFO]: Item Despawn Rate: 6000
+[11:51:20] [Server thread/INFO]: Item Merge Radius: 2.5
+[11:51:20] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[11:51:20] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[11:51:20] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[11:51:20] [Server thread/INFO]: Experience Merge Radius: 3.0
+[11:51:20] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[11:51:20] [Server thread/INFO]: View Distance: 10
+[11:51:20] [Server thread/INFO]: Preparing start region for level 0 (Seed: 152789741499945201)
+[11:51:21] [Server thread/INFO]: Preparing spawn area: 4%
+[11:51:22] [Server thread/INFO]: Preparing spawn area: 85%
+[11:51:22] [Server thread/INFO]: Preparing start region for level 1 (Seed: 152789741499945201)
+[11:51:23] [Server thread/INFO]: Preparing start region for level 2 (Seed: 152789741499945201)
+[11:51:23] [Server thread/INFO]: [PluginManager] Enabling PluginManager v2.0.1
+[11:51:23] [Server thread/INFO]: [Essentials] Enabling Essentials v2.18.2.0
+[11:51:23] [Server thread/INFO]: [Essentials] You are running a server with limited API functionality. EssentialsX will still work, but certain features may be disabled.
+[11:51:24] [Server thread/INFO]: Attempting to convert old kits in config.yml to new kits.yml
+[11:51:24] [Server thread/INFO]: No kits found to migrate.
+[11:51:24] [Server thread/INFO]: Loaded 852 items from items.csv.
+[11:51:24] [Server thread/INFO]: Using locale ru_RU
+[11:51:24] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[11:51:24] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[11:51:24] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
+[11:51:24] [Server thread/INFO]: [EssentialsProtect] Enabling EssentialsProtect v2.18.2.0
+[11:51:24] [Server thread/INFO]: [EssentialsProtect] Continuing to enable Protect.
+[11:51:24] [Server thread/INFO]: [EssentialsProtect] Starting Metrics. Opt-out using the global bStats config.
+[11:51:24] [Server thread/INFO]: [NedoMurderMystery] Enabling NedoMurderMystery v1
+[11:51:24] [Server thread/INFO]: [NedoMurderMystery] Enabling NedoMurderMystery (version 0.1)
+[11:51:24] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.18.2.0
+[11:51:24] [Server thread/INFO]: [EssentialsSpawn] Starting Metrics. Opt-out using the global bStats config.
+[11:51:24] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.18.2.0
+[11:51:24] [Server thread/INFO]: [EssentialsChat] Starting Metrics. Opt-out using the global bStats config.
+[11:51:24] [Server thread/INFO]: [EssentialsGeoIP] Enabling EssentialsGeoIP v2.18.2.0
+[11:51:24] [Server thread/ERROR]: Ключ лицензии не найден! Инструкцию по настройке вы можете найти на сайте https://essentialsx.cf/geoip.
+[11:51:24] [Server thread/ERROR]: Ошибка при чтении базы данных GeoIP!
+java.io.FileNotFoundException: plugins\EssentialsGeoIP\GeoIP2-Country.mmdb (Не удается найти указанный файл)
+	at java.io.RandomAccessFile.open0(Native Method) ~[?:?]
+	at java.io.RandomAccessFile.open(RandomAccessFile.java:347) ~[?:?]
+	at java.io.RandomAccessFile.<init>(RandomAccessFile.java:261) ~[?:?]
+	at java.io.RandomAccessFile.<init>(RandomAccessFile.java:216) ~[?:?]
+	at com.maxmind.db.BufferHolder.<init>(BufferHolder.java:19) ~[EssentialsXGeoIP-2.18.2.0.jar:?]
+	at com.maxmind.db.Reader.<init>(Reader.java:116) ~[EssentialsXGeoIP-2.18.2.0.jar:?]
+	at com.maxmind.geoip2.DatabaseReader.<init>(DatabaseReader.java:66) ~[EssentialsXGeoIP-2.18.2.0.jar:?]
+	at com.maxmind.geoip2.DatabaseReader.<init>(DatabaseReader.java:54) ~[EssentialsXGeoIP-2.18.2.0.jar:?]
+	at com.maxmind.geoip2.DatabaseReader$Builder.build(DatabaseReader.java:160) ~[EssentialsXGeoIP-2.18.2.0.jar:?]
+	at com.earth2me.essentials.geoip.EssentialsGeoIPPlayerListener.reloadConfig(EssentialsGeoIPPlayerListener.java:175) [EssentialsXGeoIP-2.18.2.0.jar:?]
+	at com.earth2me.essentials.geoip.EssentialsGeoIPPlayerListener.<init>(EssentialsGeoIPPlayerListener.java:52) [EssentialsXGeoIP-2.18.2.0.jar:?]
+	at com.earth2me.essentials.geoip.EssentialsGeoIP.onEnable(EssentialsGeoIP.java:31) [EssentialsXGeoIP-2.18.2.0.jar:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:264) [spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:337) [spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:403) [spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at org.bukkit.craftbukkit.v1_12_R1.CraftServer.enablePlugin(CraftServer.java:381) [spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at org.bukkit.craftbukkit.v1_12_R1.CraftServer.enablePlugins(CraftServer.java:330) [spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.t(MinecraftServer.java:422) [spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.l(MinecraftServer.java:383) [spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.a(MinecraftServer.java:338) [spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.init(DedicatedServer.java:272) [spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:545) [spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at java.lang.Thread.run(Thread.java:832) [?:?]
+[11:51:24] [Server thread/INFO]: [EssentialsGeoIP] This product includes GeoLite2 data created by MaxMind, available from http://www.maxmind.com/.
+[11:51:24] [Server thread/INFO]: [EssentialsGeoIP] Starting Metrics. Opt-out using the global bStats config.
+[11:51:24] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v4.2.2-b812
+[11:51:24] [Server thread/INFO]: [Multiverse-Core] §aWe are aware of the warning about the deprecated event. There is no alternative that allows us to do what we need to do and performance impact is negligible. It is safe to ignore.
+[11:51:25] [Server thread/INFO]: -------- World Settings For [map] --------
+[11:51:25] [Server thread/INFO]: Mob Spawn Range: 4
+[11:51:25] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[11:51:25] [Server thread/INFO]: Cane Growth Modifier: 100%
+[11:51:25] [Server thread/INFO]: Melon Growth Modifier: 100%
+[11:51:25] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[11:51:25] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[11:51:25] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[11:51:25] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[11:51:25] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[11:51:25] [Server thread/INFO]: Vine Growth Modifier: 100%
+[11:51:25] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[11:51:25] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[11:51:25] [Server thread/INFO]: Structure Info Saving: true
+[11:51:25] [Server thread/INFO]: Random Lighting Updates: false
+[11:51:25] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[11:51:25] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[11:51:25] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[11:51:25] [Server thread/INFO]: Max TNT Explosions: 100
+[11:51:25] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[11:51:25] [Server thread/INFO]: Item Despawn Rate: 6000
+[11:51:25] [Server thread/INFO]: Item Merge Radius: 2.5
+[11:51:25] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[11:51:25] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[11:51:25] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[11:51:25] [Server thread/INFO]: Experience Merge Radius: 3.0
+[11:51:25] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[11:51:25] [Server thread/INFO]: View Distance: 10
+[11:51:25] [Server thread/INFO]: Preparing start region for level 3 (Seed: -7970432050895707435)
+
+[11:51:26] [Server thread/INFO]: [Multiverse-Core] 4 - World(s) loaded.
+[11:51:26] [Server thread/WARN]: [Multiverse-Core] Buscript failed to load! The script command will be disabled!
+[11:51:26] [Server thread/INFO]: [Multiverse-Core] Version 4.2.2-b812 (API v24) Enabled - By dumptruckman, Rigby, fernferret, lithium3141 and main--
+[11:51:26] [Server thread/INFO]: [EssentialsAntiBuild] Enabling EssentialsAntiBuild v2.18.2.0
+[11:51:26] [Server thread/INFO]: [EssentialsAntiBuild] Starting Metrics. Opt-out using the global bStats config.
+[11:51:26] [Server thread/INFO]: [EssentialsXMPP] Enabling EssentialsXMPP v2.18.2.0
+[11:51:26] [Server thread/WARN]: XMPP настроен некорректно. Если вы не знаете, что такое XMPP, вы можете удалить плагин EssentialsXXMPP с вашего сервера.
+[11:51:26] [Server thread/INFO]: [EssentialsXMPP] Starting Metrics. Opt-out using the global bStats config.
+[11:51:26] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[11:51:26] [Server thread/INFO]: Done (7,186s)! For help, type "help" or "?"
+[11:51:28] [Craft Scheduler Thread - 0/INFO]: [0;36;22mPM [0;37;22m| [0;32;1mYou are using the latest version of [0;33;22mPluginManager[0;32;1m.[m
+
+[11:51:32] [User Authenticator #1/INFO]: UUID of player недожопер is bd7bcd03-da8d-34da-9f26-0122f3b918d8
+[11:51:32] [Server thread/INFO]: недожопер[/192.168.100.2:59272] logged in with entity id 275 at ([map]0.4624208220618863, 65.0, -0.598415583285782)
+[11:51:32] [Server thread/WARN]: [Essentials] XMPP настроен некорректно. Если вы не знаете, что такое XMPP, вы можете удалить плагин EssentialsXXMPP с вашего сервера.
+[11:51:36] [Server thread/INFO]: недожопер issued server command: /gm 1
+[11:51:38] [Server thread/INFO]: недожопер issued server command: /daY
+[11:51:42] [Server thread/ERROR]: Could not pass event PlayerInteractEvent to Multiverse-Core v4.2.2-b812
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:306) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:500) [spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:485) [spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at org.bukkit.craftbukkit.v1_12_R1.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:235) [spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at net.minecraft.server.v1_12_R1.PlayerInteractManager.a(PlayerInteractManager.java:458) [spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at net.minecraft.server.v1_12_R1.PlayerConnection.a(PlayerConnection.java:953) [spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at net.minecraft.server.v1_12_R1.PacketPlayInUseItem.a(PacketPlayInUseItem.java:37) [spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at net.minecraft.server.v1_12_R1.PacketPlayInUseItem.a(PacketPlayInUseItem.java:1) [spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at net.minecraft.server.v1_12_R1.PlayerConnectionUtils$1.run(SourceFile:13) [spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515) [?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264) [?:?]
+	at net.minecraft.server.v1_12_R1.SystemUtils.a(SourceFile:46) [spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:748) [spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) [spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at java.lang.Thread.run(Thread.java:832) [?:?]
+Caused by: java.lang.NoSuchFieldError: END_PORTAL_FRAME
+	at com.onarandombox.MultiverseCore.listeners.MVPortalListener.portalForm(MVPortalListener.java:74) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:564) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	... 17 more
+[11:51:43] [Server thread/ERROR]: Could not pass event PlayerInteractEvent to Multiverse-Core v4.2.2-b812
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:306) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:500) [spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:485) [spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at org.bukkit.craftbukkit.v1_12_R1.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:235) [spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at net.minecraft.server.v1_12_R1.PlayerInteractManager.a(PlayerInteractManager.java:458) [spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at net.minecraft.server.v1_12_R1.PlayerConnection.a(PlayerConnection.java:953) [spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at net.minecraft.server.v1_12_R1.PacketPlayInUseItem.a(PacketPlayInUseItem.java:37) [spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at net.minecraft.server.v1_12_R1.PacketPlayInUseItem.a(PacketPlayInUseItem.java:1) [spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at net.minecraft.server.v1_12_R1.PlayerConnectionUtils$1.run(SourceFile:13) [spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515) [?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264) [?:?]
+	at net.minecraft.server.v1_12_R1.SystemUtils.a(SourceFile:46) [spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:748) [spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) [spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at java.lang.Thread.run(Thread.java:832) [?:?]
+Caused by: java.lang.NoSuchFieldError: END_PORTAL_FRAME
+	at com.onarandombox.MultiverseCore.listeners.MVPortalListener.portalForm(MVPortalListener.java:74) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:564) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	... 17 more
+[11:51:43] [Server thread/ERROR]: Could not pass event PlayerInteractEvent to Multiverse-Core v4.2.2-b812
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:306) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:500) [spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:485) [spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at org.bukkit.craftbukkit.v1_12_R1.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:235) [spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at net.minecraft.server.v1_12_R1.PlayerInteractManager.a(PlayerInteractManager.java:458) [spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at net.minecraft.server.v1_12_R1.PlayerConnection.a(PlayerConnection.java:953) [spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at net.minecraft.server.v1_12_R1.PacketPlayInUseItem.a(PacketPlayInUseItem.java:37) [spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at net.minecraft.server.v1_12_R1.PacketPlayInUseItem.a(PacketPlayInUseItem.java:1) [spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at net.minecraft.server.v1_12_R1.PlayerConnectionUtils$1.run(SourceFile:13) [spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515) [?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264) [?:?]
+	at net.minecraft.server.v1_12_R1.SystemUtils.a(SourceFile:46) [spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:748) [spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) [spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at java.lang.Thread.run(Thread.java:832) [?:?]
+Caused by: java.lang.NoSuchFieldError: END_PORTAL_FRAME
+	at com.onarandombox.MultiverseCore.listeners.MVPortalListener.portalForm(MVPortalListener.java:74) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:564) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	... 17 more
+[11:51:43] [Server thread/ERROR]: Could not pass event PlayerInteractEvent to Multiverse-Core v4.2.2-b812
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:306) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:500) [spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:485) [spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at org.bukkit.craftbukkit.v1_12_R1.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:235) [spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at net.minecraft.server.v1_12_R1.PlayerInteractManager.a(PlayerInteractManager.java:458) [spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at net.minecraft.server.v1_12_R1.PlayerConnection.a(PlayerConnection.java:953) [spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at net.minecraft.server.v1_12_R1.PacketPlayInUseItem.a(PacketPlayInUseItem.java:37) [spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at net.minecraft.server.v1_12_R1.PacketPlayInUseItem.a(PacketPlayInUseItem.java:1) [spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at net.minecraft.server.v1_12_R1.PlayerConnectionUtils$1.run(SourceFile:13) [spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515) [?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264) [?:?]
+	at net.minecraft.server.v1_12_R1.SystemUtils.a(SourceFile:46) [spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:748) [spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) [spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at java.lang.Thread.run(Thread.java:832) [?:?]
+Caused by: java.lang.NoSuchFieldError: END_PORTAL_FRAME
+	at com.onarandombox.MultiverseCore.listeners.MVPortalListener.portalForm(MVPortalListener.java:74) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:564) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	... 17 more
+[11:51:43] [Server thread/ERROR]: Could not pass event PlayerInteractEvent to Multiverse-Core v4.2.2-b812
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:306) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:500) [spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:485) [spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at org.bukkit.craftbukkit.v1_12_R1.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:235) [spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at net.minecraft.server.v1_12_R1.PlayerInteractManager.a(PlayerInteractManager.java:458) [spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at net.minecraft.server.v1_12_R1.PlayerConnection.a(PlayerConnection.java:953) [spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at net.minecraft.server.v1_12_R1.PacketPlayInUseItem.a(PacketPlayInUseItem.java:37) [spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at net.minecraft.server.v1_12_R1.PacketPlayInUseItem.a(PacketPlayInUseItem.java:1) [spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at net.minecraft.server.v1_12_R1.PlayerConnectionUtils$1.run(SourceFile:13) [spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515) [?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264) [?:?]
+	at net.minecraft.server.v1_12_R1.SystemUtils.a(SourceFile:46) [spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:748) [spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) [spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at java.lang.Thread.run(Thread.java:832) [?:?]
+Caused by: java.lang.NoSuchFieldError: END_PORTAL_FRAME
+	at com.onarandombox.MultiverseCore.listeners.MVPortalListener.portalForm(MVPortalListener.java:74) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:564) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	... 17 more
+[11:51:49] [Server thread/INFO]: недожопер issued server command: /mmcreate test
+[11:51:55] [Server thread/INFO]: недожопер issued server command: /mmlobby test
+[11:52:01] [Server thread/INFO]: недожопер issued server command: /mmplayers 5
+[11:52:14] [Server thread/INFO]: недожопер issued server command: /mmplayers test 5
+[12:47:25] [Server thread/INFO]: [NedoMurderMystery] Disabling NedoMurderMystery v1
+[12:47:25] [Server thread/INFO]: [NedoMurderMystery] Disabling NedoMurderMystery..
+[12:47:25] [Server thread/INFO]: [0;36;22mPM [0;37;22m| [0;32;1m[0;31;1mThe plugin could not be found.[m
+
+[12:47:32] [Server thread/INFO]: [NedoMurderMystery] Enabling NedoMurderMystery v1
+[12:47:32] [Server thread/INFO]: [NedoMurderMystery] Enabling NedoMurderMystery (version 0.1)
+[12:47:32] [Server thread/INFO]: [NedoMurderMystery] §cData directory does not exist! Creating.
+[12:47:32] [Server thread/ERROR]: Error occurred while enabling NedoMurderMystery v1 (Is it up to date?)
+java.lang.NullPointerException: Cannot invoke "org.bukkit.command.PluginCommand.setExecutor(org.bukkit.command.CommandExecutor)" because the return value of "me.nedoprogrammer.murderMystery.MurderMystery.getCommand(String)" is null
+	at me.nedoprogrammer.murderMystery.MurderMystery.onEnable(MurderMystery.java:33) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:264) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:337) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:403) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at net.Lenni0451.SpigotPluginManager.utils.PluginUtils.enablePlugin(PluginUtils.java:123) ~[PluginManager.jar:?]
+	at net.Lenni0451.SpigotPluginManager.utils.PluginUtils.loadPlugin(PluginUtils.java:236) ~[PluginManager.jar:?]
+	at net.Lenni0451.SpigotPluginManager.commands.subs.Load_Sub.execute(Load_Sub.java:58) ~[PluginManager.jar:?]
+	at net.Lenni0451.SpigotPluginManager.commands.PluginManager_Command.lambda$0(PluginManager_Command.java:103) ~[PluginManager.jar:?]
+	at net.Lenni0451.SpigotPluginManager.commands.PluginManager_Command.onCommand(PluginManager_Command.java:113) [PluginManager.jar:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44) [spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:141) [spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at org.bukkit.craftbukkit.v1_12_R1.CraftServer.dispatchCommand(CraftServer.java:648) [spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at org.bukkit.craftbukkit.v1_12_R1.CraftServer.dispatchServerCommand(CraftServer.java:634) [spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.aP(DedicatedServer.java:444) [spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:407) [spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at java.lang.Thread.run(Thread.java:832) [?:?]
+[12:47:32] [Server thread/INFO]: [0;36;22mPM [0;37;22m| [0;32;1m[0;32;1mThe plugin has been loaded.[m
+
+[12:48:59] [Server thread/INFO]: [NedoMurderMystery] Disabling NedoMurderMystery v1
+[12:48:59] [Server thread/INFO]: [NedoMurderMystery] Disabling NedoMurderMystery..
+[12:48:59] [Server thread/INFO]: [0;36;22mPM [0;37;22m| [0;32;1m[0;31;1mThe plugin could not be found.[m
+
+[12:49:08] [Server thread/INFO]: [0;36;22mPM [0;37;22m| [0;32;1m[0;31;1mThe plugin could not be found.[m
+
+[12:49:10] [Server thread/INFO]: [0;36;22mPM [0;37;22m| [0;32;1m[0;31;1mThe plugin could not be found.[m
+
+[12:49:10] [Server thread/INFO]: [0;36;22mPM [0;37;22m| [0;32;1m[0;31;1mThe plugin could not be found.[m
+
+[12:49:11] [Server thread/INFO]: [0;36;22mPM [0;37;22m| [0;32;1m[0;31;1mThe plugin could not be found.[m
+
+[12:49:11] [Server thread/INFO]: [0;36;22mPM [0;37;22m| [0;32;1m[0;31;1mThe plugin could not be found.[m
+
+[12:49:16] [Server thread/INFO]: [0;36;22mPM [0;37;22m| [0;32;1m[0;31;1mThe plugin could not be unloaded.[m
+
+[12:49:17] [Server thread/INFO]: [0;36;22mPM [0;37;22m| [0;32;1m[0;31;1mThe plugin could not be found.[m
+
+[12:49:30] [Server thread/INFO]: [NedoMurderMystery] Enabling NedoMurderMystery v1
+[12:49:30] [Server thread/INFO]: [NedoMurderMystery] Enabling NedoMurderMystery (version 0.1)
+[12:49:30] [Server thread/INFO]: [NedoMurderMystery] §cData directory does not exist! Creating.
+[12:49:30] [Server thread/INFO]: [0;36;22mPM [0;37;22m| [0;32;1m[0;32;1mThe plugin has been loaded.[m
+
+[12:51:21] [Server thread/INFO]: [NedoMurderMystery] Disabling NedoMurderMystery v1
+[12:51:21] [Server thread/INFO]: [NedoMurderMystery] Disabling NedoMurderMystery..
+[12:51:21] [Server thread/INFO]: [0;36;22mPM [0;37;22m| [0;32;1m[0;31;1mThe plugin could not be found.[m
+
+[12:51:28] [Server thread/INFO]: [NedoMurderMystery] Enabling NedoMurderMystery v1
+[12:51:28] [Server thread/INFO]: Enabling NedoMurderMystery (version 0.1)[m
+
+[12:51:28] [Server thread/INFO]: [0;31;1mData directory does not exist! Creating.[m
+
+[12:51:28] [Server thread/INFO]: [0;36;22mPM [0;37;22m| [0;32;1m[0;32;1mThe plugin has been loaded.[m
+
+[12:53:05] [Server thread/INFO]: [NedoMurderMystery] Disabling NedoMurderMystery v1
+[12:53:05] [Server thread/INFO]: Disabling NedoMurderMystery..[m
+
+[12:53:05] [Server thread/INFO]: [0;36;22mPM [0;37;22m| [0;32;1m[0;31;1mThe plugin could not be found.[m
+
+[12:53:08] [Server thread/INFO]: [NedoMurderMystery] Enabling NedoMurderMystery v1
+[12:53:08] [Server thread/INFO]: Enabling NedoMurderMystery (version 0.1)[m
+
+[12:53:08] [Server thread/INFO]: [0;31;1mData directory does not exist! Creating.[m
+
+[12:53:08] [Server thread/INFO]: [0;36;22mPM [0;37;22m| [0;32;1m[0;32;1mThe plugin has been loaded.[m
+
+[12:54:43] [Server thread/INFO]: [NedoMurderMystery] Disabling NedoMurderMystery v1
+[12:54:43] [Server thread/INFO]: Disabling NedoMurderMystery..[m
+
+[12:54:43] [Server thread/INFO]: [0;36;22mPM [0;37;22m| [0;32;1m[0;31;1mThe plugin could not be found.[m
+
+[12:54:44] [Server thread/INFO]: [NedoMurderMystery] Enabling NedoMurderMystery v1
+[12:54:44] [Server thread/INFO]: Enabling NedoMurderMystery (version 0.1)[m
+
+[12:54:44] [Server thread/INFO]: C:\Users\User\Desktop\server\.\plugins\NedoMurderMystery[m
+
+[12:54:44] [Server thread/INFO]: [0;36;22mPM [0;37;22m| [0;32;1m[0;32;1mThe plugin has been loaded.[m
+
+[12:54:57] [Server thread/INFO]: [NedoMurderMystery] Disabling NedoMurderMystery v1
+[12:54:57] [Server thread/INFO]: Disabling NedoMurderMystery..[m
+
+[12:54:57] [Server thread/INFO]: [0;36;22mPM [0;37;22m| [0;32;1m[0;31;1mThe plugin could not be found.[m
+
+[12:56:37] [Server thread/INFO]: [0;36;22mPM [0;37;22m| [0;32;1m[0;31;1mThe plugin could not be unloaded.[m
+
+[12:56:38] [Server thread/INFO]: [NedoMurderMystery] Enabling NedoMurderMystery v1
+[12:56:38] [Server thread/INFO]: Enabling NedoMurderMystery (version 0.1)[m
+
+[12:56:38] [Server thread/INFO]: [0;31;1mGames directory does not exist! Creating.[m
+
+[12:56:38] [Server thread/INFO]: [0;36;22mPM [0;37;22m| [0;32;1m[0;32;1mThe plugin has been loaded.[m
+
+[12:56:47] [Server thread/INFO]: [NedoMurderMystery] Disabling NedoMurderMystery v1
+[12:56:47] [Server thread/INFO]: Disabling NedoMurderMystery..[m
+
+[12:56:47] [Server thread/INFO]: [0;36;22mPM [0;37;22m| [0;32;1m[0;31;1mThe plugin could not be found.[m
+
+[12:56:48] [Server thread/INFO]: [NedoMurderMystery] Enabling NedoMurderMystery v1
+[12:56:48] [Server thread/INFO]: Enabling NedoMurderMystery (version 0.1)[m
+
+[12:56:48] [Server thread/INFO]: [0;31;1mData directory does not exist! Creating.[m
+
+[12:56:48] [Server thread/INFO]: [0;31;1mGames directory does not exist! Creating.[m
+
+[12:56:48] [Server thread/INFO]: [0;36;22mPM [0;37;22m| [0;32;1m[0;32;1mThe plugin has been loaded.[m
+
+[13:02:25] [Server thread/INFO]: [NedoMurderMystery] Disabling NedoMurderMystery v1
+[13:02:25] [Server thread/INFO]: Disabling NedoMurderMystery..[m
+
+[13:02:25] [Server thread/INFO]: [0;36;22mPM [0;37;22m| [0;32;1m[0;31;1mThe plugin could not be found.[m
+
+[13:02:26] [Server thread/INFO]: [NedoMurderMystery] Enabling NedoMurderMystery v1
+[13:02:26] [Server thread/INFO]: Enabling NedoMurderMystery (version 0.1)[m
+
+[13:02:26] [Server thread/INFO]: [0;31;1mData directory does not exist! Creating.[m
+
+[13:02:26] [Server thread/INFO]: [0;31;1mGames directory does not exist! Creating.[m
+
+[13:02:26] [Server thread/INFO]: [0;36;22mPM [0;37;22m| [0;32;1m[0;32;1mThe plugin has been loaded.[m
+
+[13:02:31] [Server thread/INFO]: недожопер issued server command: /mmcreate
+[13:02:33] [Server thread/INFO]: недожопер issued server command: /mmcreate test
+[13:02:36] [Server thread/INFO]: недожопер issued server command: /mmsave test
+[13:02:50] [Server thread/INFO]: недожопер issued server command: /mmplayers 5
+[13:02:53] [Server thread/INFO]: недожопер issued server command: /mmplayers test 5
+[13:03:01] [Server thread/INFO]: недожопер issued server command: /mmlobby test
+[13:03:07] [Server thread/INFO]: недожопер issued server command: /mmworld test
+[13:03:10] [Server thread/INFO]: недожопер issued server command: /mmsave test
+[13:03:10] [Server thread/ERROR]: null
+org.bukkit.command.CommandException: Unhandled exception executing command 'mmsave' in plugin NedoMurderMystery v1
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:46) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:141) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at org.bukkit.craftbukkit.v1_12_R1.CraftServer.dispatchCommand(CraftServer.java:648) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at net.minecraft.server.v1_12_R1.PlayerConnection.handleCommand(PlayerConnection.java:1399) [spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at net.minecraft.server.v1_12_R1.PlayerConnection.a(PlayerConnection.java:1234) [spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at net.minecraft.server.v1_12_R1.PacketPlayInChat.a(PacketPlayInChat.java:45) [spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at net.minecraft.server.v1_12_R1.PacketPlayInChat.a(PacketPlayInChat.java:1) [spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at net.minecraft.server.v1_12_R1.PlayerConnectionUtils$1.run(SourceFile:13) [spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515) [?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264) [?:?]
+	at net.minecraft.server.v1_12_R1.SystemUtils.a(SourceFile:46) [spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:748) [spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) [spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at java.lang.Thread.run(Thread.java:832) [?:?]
+Caused by: java.lang.NoClassDefFoundError: org/json/JSONObject
+	at me.nedoprogrammer.murderMystery.helpers.GameEncoder.encode(GameEncoder.java:10) ~[?:?]
+	at me.nedoprogrammer.murderMystery.commands.SaveGame.onCommand(SaveGame.java:62) ~[?:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	... 15 more
+Caused by: java.lang.ClassNotFoundException: org.json.JSONObject
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:435) ~[?:?]
+	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:152) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:100) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:589) ~[?:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:522) ~[?:?]
+	at me.nedoprogrammer.murderMystery.helpers.GameEncoder.encode(GameEncoder.java:10) ~[?:?]
+	at me.nedoprogrammer.murderMystery.commands.SaveGame.onCommand(SaveGame.java:62) ~[?:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	... 15 more
+[13:11:05] [Server thread/INFO]: [NedoMurderMystery] Disabling NedoMurderMystery v1
+[13:11:05] [Server thread/INFO]: Disabling NedoMurderMystery..[m
+
+[13:11:05] [Server thread/INFO]: [0;36;22mPM [0;37;22m| [0;32;1m[0;31;1mThe plugin could not be found.[m
+
+[13:11:08] [Server thread/INFO]: [NedoMurderMystery] Enabling NedoMurderMystery v1
+[13:11:08] [Server thread/INFO]: Enabling NedoMurderMystery (version 0.1)[m
+
+[13:11:08] [Server thread/INFO]: [0;36;22mPM [0;37;22m| [0;32;1m[0;32;1mThe plugin has been loaded.[m
+
+[13:11:15] [Server thread/INFO]: недожопер issued server command: /mmcreate test
+[13:11:18] [Server thread/INFO]: недожопер issued server command: /mmplayers test 5
+[13:11:24] [Server thread/INFO]: недожопер issued server command: /mmlobby test
+[13:11:27] [Server thread/INFO]: недожопер issued server command: /mmworld test
+[13:11:30] [Server thread/INFO]: недожопер issued server command: /mmsave test
+[13:13:24] [Server thread/INFO]: [NedoMurderMystery] Disabling NedoMurderMystery v1
+[13:13:24] [Server thread/INFO]: Disabling NedoMurderMystery..[m
+
+[13:13:24] [Server thread/INFO]: [0;36;22mPM [0;37;22m| [0;32;1m[0;31;1mThe plugin could not be found.[m
+
+[13:13:25] [Server thread/INFO]: [NedoMurderMystery] Enabling NedoMurderMystery v1
+[13:13:25] [Server thread/INFO]: Enabling NedoMurderMystery (version 0.1)[m
+
+[13:13:25] [Server thread/INFO]: [0;36;22mPM [0;37;22m| [0;32;1m[0;32;1mThe plugin has been loaded.[m
+
+[13:13:29] [Server thread/INFO]: недожопер issued server command: /mmcreate test
+[13:13:32] [Server thread/INFO]: недожопер issued server command: /mmplayers test 5
+[13:13:34] [Server thread/INFO]: недожопер issued server command: /mmworld test
+[13:13:37] [Server thread/INFO]: недожопер issued server command: /mmlobby test
+[13:13:40] [Server thread/INFO]: недожопер issued server command: /mmsave test
+[13:13:40] [Server thread/ERROR]: null
+org.bukkit.command.CommandException: Unhandled exception executing command 'mmsave' in plugin NedoMurderMystery v1
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:46) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:141) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at org.bukkit.craftbukkit.v1_12_R1.CraftServer.dispatchCommand(CraftServer.java:648) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at net.minecraft.server.v1_12_R1.PlayerConnection.handleCommand(PlayerConnection.java:1399) [spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at net.minecraft.server.v1_12_R1.PlayerConnection.a(PlayerConnection.java:1234) [spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at net.minecraft.server.v1_12_R1.PacketPlayInChat.a(PacketPlayInChat.java:45) [spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at net.minecraft.server.v1_12_R1.PacketPlayInChat.a(PacketPlayInChat.java:1) [spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at net.minecraft.server.v1_12_R1.PlayerConnectionUtils$1.run(SourceFile:13) [spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515) [?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264) [?:?]
+	at net.minecraft.server.v1_12_R1.SystemUtils.a(SourceFile:46) [spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:748) [spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) [spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at java.lang.Thread.run(Thread.java:832) [?:?]
+Caused by: java.lang.StackOverflowError
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$ParameterizedTypeImpl.<init>($Gson$Types.java:457) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:103) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:546) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types$WildcardTypeImpl.<init>($Gson$Types.java:553) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at com.google.gson.internal.$Gson$Types.canonicalize($Gson$Types.java:111) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+[13:16:00] [Server thread/INFO]: Stopping the server
+[13:16:00] [Server thread/INFO]: Stopping server
+[13:16:00] [Server thread/INFO]: [NedoMurderMystery] Disabling NedoMurderMystery v1
+[13:16:00] [Server thread/INFO]: Disabling NedoMurderMystery..[m
+
+[13:16:00] [Server thread/INFO]: [EssentialsXMPP] Disabling EssentialsXMPP v2.18.2.0
+[13:16:00] [Server thread/INFO]: [EssentialsAntiBuild] Disabling EssentialsAntiBuild v2.18.2.0
+[13:16:00] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v4.2.2-b812
+[13:16:00] [Server thread/INFO]: [EssentialsGeoIP] Disabling EssentialsGeoIP v2.18.2.0
+[13:16:00] [Server thread/INFO]: [EssentialsChat] Disabling EssentialsChat v2.18.2.0
+[13:16:00] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn v2.18.2.0
+[13:16:00] [Server thread/INFO]: [EssentialsProtect] Disabling EssentialsProtect v2.18.2.0
+[13:16:00] [Server thread/INFO]: [Essentials] Disabling Essentials v2.18.2.0
+[13:16:00] [Server thread/INFO]: [VoidGenerator] Disabling VoidGenerator v1.0
+[13:16:00] [Server thread/INFO]: VoidGenerator has been disabled.
+[13:16:00] [Server thread/INFO]: [PluginManager] Disabling PluginManager v2.0.1
+[13:16:00] [Server thread/INFO]: Saving players
+[13:16:00] [Server thread/INFO]: недожопер lost connection: Server closed
+[13:16:00] [Server thread/INFO]: недожопер left the game
+[13:16:00] [Server thread/INFO]: Saving worlds
+[13:16:00] [Server thread/INFO]: Saving chunks for level 'world'/overworld
+[13:16:00] [Server thread/INFO]: Saving chunks for level 'world_nether'/the_nether
+[13:16:00] [Server thread/INFO]: Saving chunks for level 'world_the_end'/the_end
+[13:16:00] [Server thread/INFO]: Saving chunks for level 'map'/overworld

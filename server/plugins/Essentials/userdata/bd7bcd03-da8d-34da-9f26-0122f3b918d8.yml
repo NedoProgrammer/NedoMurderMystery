@@ -1,0 +1,19 @@
+lastAccountName: недожопер
+timestamps:
+  login: 1610182292522
+  logout: 1610187360156
+ipAddress: 192.168.100.2
+lastlocation:
+  world: map
+  x: 0.5045898962603861
+  y: 65.0
+  z: 0.5623143644402009
+  yaw: -183.30595
+  pitch: 72.74994
+logoutlocation:
+  world: map
+  x: 0.5261630771109574
+  y: 65.0
+  z: 0.8657547624926664
+  yaw: -193.20062
+  pitch: 32.39995
