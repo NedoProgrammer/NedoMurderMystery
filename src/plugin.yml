@@ -15,3 +15,11 @@ commands:
   mmplayers:
     description: Задать максимальное количество игроков для игры.
     usage: /mmplayers название игры | максимум игроков
+  mmworld:
+    description: Задать начальную точку игры.
+    usage: /mmworld название игры
+    permission: nedomurdermystery.setworld
+  mmsave:
+    description: Сохранить игру в файл.
+    usage: /mmsave название игры
+    permission: nedomurdermystery.save
