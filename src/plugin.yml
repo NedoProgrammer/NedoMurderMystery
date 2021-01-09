@@ -1,0 +1,17 @@
+name: NedoMurderMystery
+version: 1
+author: nedoprogrammer
+main: me.nedoprogrammer.murderMystery.MurderMystery
+api-version: 1.12.2
+commands:
+  mmcreate:
+    description: Начать создание новой игры.
+    usage: /mmcreate название игры
+    permission: nedomurdermystery.create
+  mmlobby:
+    description: Задать лобби игры.
+    usage: /mmlobby название игры
+    permission: nedomurdermystery.setlobby
+  mmplayers:
+    description: Задать максимальное количество игроков для игры.
+    usage: /mmplayers название игры | максимум игроков
