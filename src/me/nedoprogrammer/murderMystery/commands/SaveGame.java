@@ -1,6 +1,7 @@
 package me.nedoprogrammer.murderMystery.commands;
 
 import me.nedoprogrammer.murderMystery.MurderMystery;
+import me.nedoprogrammer.murderMystery.helpers.ConsoleColor;
 import me.nedoprogrammer.murderMystery.helpers.GameEncoder;
 import org.bukkit.ChatColor;
 import org.bukkit.command.Command;
@@ -60,14 +61,15 @@ public class SaveGame implements CommandExecutor {
                     gameFile.createNewFile();
                     var fw = new FileWriter(gameFile);
                     var json = GameEncoder.encode(game);
-                    plugin.logger.sendMessage(json);
                     fw.write(json);
                     fw.close();
                     player.sendMessage(ChatColor.GREEN + "Игра %s успешно сохранена!".formatted(strings[0]));
                     player.sendTitle(ChatColor.GREEN + "Успех", "", 10, 10, 10);
+                    MurderMystery.creatingGames.remove(game);
+                    MurderMystery.playableGames.add(game);
                     return true;
                 } catch (IOException e) {
-                    plugin.logger.sendMessage(ChatColor.DARK_RED + "Couldn't create a game file!");
+                    plugin.logger.info(ChatColor.DARK_RED + "Couldn't create a game file!" + ConsoleColor.RESET);
                     player.sendMessage(e.getMessage());
                 }
             }

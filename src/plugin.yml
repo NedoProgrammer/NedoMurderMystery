@@ -23,3 +23,15 @@ commands:
     description: Сохранить игру в файл.
     usage: /mmsave название игры
     permission: nedomurdermystery.save
+  mmstart:
+    description: Начать ожидание игроков для игры.
+    usage: /mmstart название игры
+    permission: nedomurdermystery.start
+  mmjoin:
+    description: Присоединиться к игре.
+    usage: /mmjoin название игры
+    permission: nedomurdermystery.join
+  mmleave:
+    description: Выйти из игры.
+    usage: /mmleave название игры
+    permission: nedomurdermystery.leave

@@ -1,8 +1,9 @@
 <component name="ArtifactManager">
   <artifact type="jar" build-on-make="true" name="NedoMurderMystery:jar">
-    <output-path>$USER_HOME$/Desktop/server/plugins</output-path>
+    <output-path>$PROJECT_DIR$/server/plugins</output-path>
     <root id="archive" name="NedoMurderMystery.jar">
       <element id="module-output" name="NedoMurderMystery" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/json-20201115.jar" path-in-jar="/" />
     </root>
   </artifact>
 </component>
